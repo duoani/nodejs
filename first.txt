@@ -1,2 +1,3 @@
 this file is the first commited on my learning.
 Creating a new branch is quick.
+Git is quick & simple.
